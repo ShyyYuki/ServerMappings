@@ -1,0 +1,22 @@
+{
+    "id": "Baublase",
+    "name": "Baublase",
+    "store": "https://Baublase.net",
+    "addresses": [
+        "Baublase.net"
+    ],
+    "primaryAddress": "Baublase.net",
+    "primaryColor": "#FA56AF",
+    "secondaryColor": "#4498DB",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ]
+}
